@@ -1,6 +1,7 @@
 # Write a program that will find the product of a collection of values.
 # Your program should ignore any negative numbers and should terminate
 # when a zero value is read.
+
 negative_numbers = 0
 result = 1
 puts "Enter integer number '0' to terminate: "
