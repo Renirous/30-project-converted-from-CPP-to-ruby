@@ -6,5 +6,6 @@ number = gets.chomp.to_i
 (1..number).each do |i|
   if number % i == 0
     puts "the factor is : #{i}"
+    # puts i
   end
 end
